@@ -3,7 +3,7 @@ Utilizei:
   Noje.js v16.16.0
   Framework: Express, pois como não possuo muito conhecimento em javaScript foi o framework mais simples que achei 
 	de utilizar.
-  Pacotes adicionados: morgan, body-parser, bcrypt, jsonwebtoken.
+  Pacotes adicionados: morgan, body-parser, bcrypt, jsonwebtoken, mysql.
   Banco de dados: MYSql worckbench 8.0.
 
 Como não utilizei interfaces para visualizações, utilizei o Postman para realizar meus testes a recomendo que façam 
